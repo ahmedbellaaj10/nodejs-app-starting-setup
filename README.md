@@ -6,7 +6,7 @@ This repository contains a minimal Node.js application designed to help develope
 
 ```
 .
-├── Dockerfile          # Contains instructions for building the Docker image
+├── Dockerfile         # Contains instructions for building the Docker image
 ├── package.json       # Node.js project configuration and dependencies
 ├── server.js          # Simple Node.js web server
 └── public/            # Static files directory
